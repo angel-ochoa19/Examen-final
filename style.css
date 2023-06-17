@@ -1,0 +1,19 @@
+input {
+    background-color: yellow;
+    color: blue;
+    border-radius: 4px;
+    border: 4px blue;
+   }
+ 
+   th {
+     background-color: lawngreen;
+     color: black;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   }
+ 
+   button {
+     background-color: greenyellow;
+     color: blue;
+     border: 6px black;
+ 
+   }

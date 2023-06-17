@@ -1,0 +1,9 @@
+//Como hice la tabla//
+use Final_0907_23_11907;
+
+CREATE TABLE Producato (
+    Codigo int(20) not null,
+    Nombre varchar(20) not null,
+    Precio int(20) not null,
+    Exitencia varchar(20)
+    )
